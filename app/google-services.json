@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "498340096974",
+    "project_id": "uasb-afdb7",
+    "storage_bucket": "uasb-afdb7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498340096974:android:f67ddb9f1199e4f660199f",
+        "android_client_info": {
+          "package_name": "com.rasya.uts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk4SkfLPU_E8xaUvQ2BFYxhtchbbTYsoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
